@@ -8,6 +8,6 @@ public interface BasicGoodBehavior {
      * 
      * @return true if identified fields are null, false otherwise
      */
-    public boolean isEmpty();
+    public boolean isEmpty();                                                                             
 
 }
